@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCollector", "DataCollector\DataCollector.csproj", "{E74C9551-396E-4196-A84D-80DB4F1D7563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCollector.Droid", "Droid\DataCollector.Droid.csproj", "{066E330A-0A78-43DE-B4BF-9AA1EA1CD9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74C9551-396E-4196-A84D-80DB4F1D7563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74C9551-396E-4196-A84D-80DB4F1D7563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74C9551-396E-4196-A84D-80DB4F1D7563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74C9551-396E-4196-A84D-80DB4F1D7563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066E330A-0A78-43DE-B4BF-9AA1EA1CD9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066E330A-0A78-43DE-B4BF-9AA1EA1CD9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066E330A-0A78-43DE-B4BF-9AA1EA1CD9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066E330A-0A78-43DE-B4BF-9AA1EA1CD9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

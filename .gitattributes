@@ -1,0 +1,2 @@
+*.csproj text merge=binary eol=crlf
+*.sln    text merge=binary eol=crlf
